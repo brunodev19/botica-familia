@@ -20,7 +20,9 @@ PRIMARY KEY (codigo_producto)
 );
 -- 5. Ver tablas
 show tables
---6. insertar valor a tabla login
+--6. insertar valor  3 valores a tabla login
 insert into login values ('fabi123', 'elizabethcg');
+insert into login values ('miguel', '123');
+insert into login values ('bruno','345');
 --7. insertar valor a tabla inventario
 insert into inventario values (00001, 'amoxicilina', 'FarmaIndustria', 0.20, 020, 1000);
