@@ -26,4 +26,3 @@ insert into login values ('miguel', '123');
 insert into login values ('bruno','345');
 --7. insertar valor a tabla inventario
 insert into inventario values (00001, 'amoxicilina', 'FarmaIndustria', 0.20, 020, 1000);
---8. Agregué boostrap a mi html.
